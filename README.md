@@ -2,4 +2,4 @@
 
 **This is an experimental space**
 
-This repository containes Class file that can be used as library in you worpress project,
+This repository containes Class files that can be used as libraries in you worpress project,
